@@ -42,7 +42,7 @@ Using Prosodically-Aligned References]
 **Lin.Liu**
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- e propose a novel method that leverages content- and speaker-independent references during training, which are prosodically-aligned—meaning that they are closely matched in rhythm, intonation, and stress patterns to the target speech. 
+- We propose a novel method that leverages content- and speaker-independent references during training, which are prosodically-aligned: meaning that they are closely matched in rhythm, intonation, and stress patterns to the target speech. 
 </div>
 </div>
 
